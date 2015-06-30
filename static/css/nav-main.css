@@ -1,0 +1,108 @@
+/*main navbar*/
+.navbar {
+    background-color: #70C670;
+    border: none;
+    border-radius: 0px;
+}
+
+.navbar-default {
+  float: none;
+  margin: auto;
+  padding: 10px 0 10px 2px;
+}
+
+.navbar-brand {
+    padding-top: 0px;
+    margin-bottom: 10px;
+
+}
+
+.navbar-default {
+    text-transform: uppercase;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-weight: 700;
+    color: #f05f40;
+    font-size: 20px;
+    background-color: #70C670;
+}
+
+.navbar-right > li > a {
+    color: #fff !important;
+    background-color: #70C670;
+}
+
+.navbar-list {
+    margin-top: 0px;
+}
+
+.nav-justified {
+    text-align: center;
+}
+
+.nav-justified>li {
+    display: inline;
+}
+
+.nav-justified > li > a {
+    color: #fff;
+    width: 100%;
+    display: inline;
+    padding: 0px;
+    background-color: #70C670;
+}
+
+.nav-justified > li > a:hover {
+    background-color: #70C670;
+}
+
+.navbar-list-form li{
+    margin: 0;
+    background-color: #70C670;
+}
+
+.navbar-list >.active>a {
+    color: black !important;
+    background-color: #70C670 !important;
+}
+
+.navbar-list >a:focus,
+.navbar-list >a:hover {
+    color: black !important;
+    background-color: #70C670 !important;
+}
+
+.navbar-default .nav-justifiedv>.active>li, 
+.navbar-default .nav-justified>.active>li:focus, 
+.navbar-default .nav-justified>.active>li:hover {
+    background-color: #70C670 !important;
+    color: black !important;
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover {
+    background-color: #70C670 !important;
+    color: black !important;
+}
+
+
+footer {
+    background-color: #222;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.footer-text {
+    color: #70C670;
+    font-size: 20px;
+}
+
+#social-footer a{
+    font-size: 32px;
+    color: #fff !important;
+    padding: 5px;
+}
+
+#social-footer i{
+    color: #fff !important;
+}
