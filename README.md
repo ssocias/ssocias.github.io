@@ -12,7 +12,8 @@ And if you're interested in joining the team, send us an email to [teamcassie@ca
 To a Bright Future :rocket:
 
 
-####Directions for Christina:####
+####Directions for Christina####
+After you make edits to blog/index.html, save the file and execute these commands from your terminal:
 
 	git add blog/index.html
 	git commit -m "new blog post"
