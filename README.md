@@ -12,3 +12,9 @@ And if you're interested in joining the team, send us an email to [teamcassie@ca
 To a Bright Future :rocket:
 
 
+###Directions for Christina:###
+
+git add blog/index.html
+git commit -m "new blog post"
+git push
+
