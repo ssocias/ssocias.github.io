@@ -354,18 +354,3 @@ form .row:first-child .floating-label-form-group {
     border: 3px solid #3366FF;
     border-radius: 8px;
 }
-
-.navbar-green {
-    margin: 0px;
-    padding: 0px;
-}
-
-.navbar-green li {
-    margin: 0px;
-    padding: 0px;
-}
-
-.navbar-green li a {
-    margin: 0px;
-    padding: 0px;
-}
