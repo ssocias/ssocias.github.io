@@ -357,6 +357,7 @@ form .row:first-child .floating-label-form-group {
 
 .navbar-green {
     margin: 0px;
+    padding: 0px;
 }
 
 .navbar-green li {
@@ -366,4 +367,5 @@ form .row:first-child .floating-label-form-group {
 
 .navbar-green li a {
     margin: 0px;
+    padding: 0px;
 }
