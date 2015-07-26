@@ -27,11 +27,12 @@
 
 .navbar-right > li > a {
     color: #fff !important;
-    background-color: #70C670;
+    background-color: transparent;
 }
 
 .navbar-list {
     margin-top: 0px;
+    background-color: transparent;
 }
 
 .nav-justified {
@@ -40,6 +41,7 @@
 
 .nav-justified>li {
     display: inline;
+    background-color: transparent;
 }
 
 .nav-justified > li > a {
@@ -47,7 +49,7 @@
     width: 100%;
     display: inline;
     padding: 0px;
-    background-color: #70C670;
+    background-color: transparent;
 }
 
 .nav-justified > li > a:hover {
@@ -56,24 +58,24 @@
 
 .navbar-list-form li{
     margin: 0;
-    background-color: #70C670;
+    background-color: transparent;
 }
 
 .navbar-list >.active>a {
     color: black !important;
-    background-color: #70C670 !important;
+    background-color: transparent !important;
 }
 
 .navbar-list >a:focus,
 .navbar-list >a:hover {
     color: black !important;
-    background-color: #70C670 !important;
+    background-color: transparent !important;
 }
 
 .navbar-default .nav-justifiedv>.active>li, 
 .navbar-default .nav-justified>.active>li:focus, 
 .navbar-default .nav-justified>.active>li:hover {
-    background-color: #70C670 !important;
+    background-color: transparent !important;
     color: black !important;
 }
 
