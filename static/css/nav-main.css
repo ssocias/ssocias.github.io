@@ -53,7 +53,7 @@
 }
 
 .nav-justified > li > a:hover {
-    background-color: #70C670;
+    background-color: transparent;
 }
 
 .navbar-list-form li{
@@ -82,7 +82,7 @@
 .navbar-default .navbar-nav>.active>a, 
 .navbar-default .navbar-nav>.active>a:focus, 
 .navbar-default .navbar-nav>.active>a:hover {
-    background-color: #70C670 !important;
+    background-color: transparent !important;
     color: black !important;
 }
 
