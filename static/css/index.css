@@ -209,8 +209,10 @@ hr.light {
 }
 
 .btn-green2 {
-    background-color: #70C670;
-    color: #fff;
+    background-color: none;
+    color: #00A300;
+    font-weight: 400;
+    font-size: 18px;
     border: none !important;
 }
 
