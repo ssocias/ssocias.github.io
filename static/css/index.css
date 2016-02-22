@@ -208,12 +208,11 @@ hr.light {
     color: #fff;
 }
 
-.btn-green2 {
-    background-color: none;
-    color: #00A300;
+.new-app {
+    color: #000;
     font-weight: 400;
     font-size: 18px;
-    border: none !important;
+    margin-left: 20px;
 }
 
 .forecastnow:hover{
