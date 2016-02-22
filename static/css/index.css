@@ -181,7 +181,6 @@ hr.light {
 .btn-white {
     background-color: none;
     border: 4px solid #fff;
-    text-transform: uppercase;
     color: #fff;
     font-weight: 400;
     font-size: 18px;
@@ -213,6 +212,8 @@ hr.light {
     font-weight: 400;
     font-size: 18px;
     margin-left: 20px;
+    border: 4px solid #70C670;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 .forecastnow:hover{
