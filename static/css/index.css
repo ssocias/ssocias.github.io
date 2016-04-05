@@ -225,6 +225,7 @@ hr.light {
 .btn-green {
     background-color: #70C670;
     color: #fff;
+    font-weight: 400;
 }
 
 .forecastnow:hover{
